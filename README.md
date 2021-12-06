@@ -4,7 +4,7 @@
     <p align="center">
         Simple yet fast and efficient PancakeSwap sniper-bot.
         <hr>
-        <a href="https://github.com/iamroyalgit/snipr/issues">⬇️ Download Lite Version</a>
+        <a href="https://github.com/iamroyalgit/snipr/releases">⬇️ Download Lite Version</a>
         /
         <a href="https://github.com/iamroyalgit/snipr/issues">🐞 Report a bug</a>
         /
