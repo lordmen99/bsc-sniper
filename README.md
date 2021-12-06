@@ -39,10 +39,10 @@
 A fast and efficient bot written in NodeJS to automatically buy and sell tokens on the Binance Smart Chain as soon as liquidity is added and trade is enabled.
 <br><br>
 The bot is extremely fast as long as you use a **good** node and not a public one. With a node from Quicknode you can expect a buy/sell transaction in less than 5 seconds.
-
-### Features
+<br><br>
 The bot uploaded on github is the **lite** version of the real bot. 
 You do **not** get all of the features from the premium version.
+### Features
 
 Current features supported by the **lite** version:
 
