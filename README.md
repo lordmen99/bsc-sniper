@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/mF3T0jn.png">
     <h3 align="center">Eryx - PancakeSwap Sniper</h3>
     <p align="center">
-        Simple yet fast and efficient PancakeSwap sniper-bot.
+        Simple yet fast and efficient PancakeSwap sniper-bot running on the Binance Smart Chain.
         <hr>
         <a href="https://github.com/iamroyalgit/snipr/releases">⬇️ Download Lite Version</a>
         /
