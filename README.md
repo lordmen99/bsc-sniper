@@ -97,9 +97,18 @@ Planned features for the **premium** version:
 ### Configuration
 
 ```ini
+[SNIPER]
+
+; DO NOT REMOVE.
+IDENTIFIER=6a97b1371d83c396e9a30f20c7486fd04f813e074c127f2cfeef62017f8103c7
+
 [WALLET]
-SECRET_KEY=wallet_private_key ; This is your BSC wallet's private key.
-WSS_NODE=wss://bsc-ws-node.nariox.org:443 ; The uptime of this node is pretty bad, you should consider using a private node.
+; This is your BSC wallet's private key.
+SECRET_KEY=private_wallet_key
+
+; The uptime of this node is pretty bad, you should consider using a private node.
+WSS_NODE=wss://bsc-ws-node.nariox.org:443
+
 
 [CONTRACTS]
 ; These variables support two pre-defined contracts (WBNB & BUSD). 
@@ -107,7 +116,9 @@ WSS_NODE=wss://bsc-ws-node.nariox.org:443 ; The uptime of this node is pretty ba
 INPUT=WBNB
 OUTPUT=BUSD
 
+
 [TRANSACTION]
+
 GAS_LIMIT=500000
 GAS_PRICE=5
 
@@ -115,7 +126,7 @@ GAS_PRICE=5
 ; If for example you use WBNB as input, you will have to use WBNB's format.
 AMOUNT_IN=0.0033
 
-BUY_SLIPPAGE=50
+BUY_SLIPPAGE=10
 ```
 
 ## Go Premium
