@@ -4,7 +4,7 @@
     <p align="center">
         Simple yet fast and efficient PancakeSwap sniper-bot running on the Binance Smart Chain.
         <hr>
-        <a href="https://github.com/iamroyalgit/snipr/releases">⬇️ Download Lite Version</a>
+        <a href="#getting-started">⬇️ Download Lite Version</a>
         /
         <a href="https://github.com/iamroyalgit/snipr/issues">🐞 Report a bug</a>
         /
